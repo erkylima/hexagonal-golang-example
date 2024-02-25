@@ -6,8 +6,8 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/erkylima/hexagonal/hexagonal/internal/beneficiary"
-	js "github.com/erkylima/hexagonal/hexagonal/internal/beneficiary/serializer/json"
+	"github.com/erkylima/hexagonal/internal/beneficiary"
+	js "github.com/erkylima/hexagonal/internal/beneficiary/serializer/json"
 	"github.com/go-chi/chi"
 	"github.com/pkg/errors"
 )

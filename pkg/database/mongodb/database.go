@@ -4,7 +4,7 @@ import (
 	"context"
 	"time"
 
-	"github.com/erkylima/hexagonal/hexagonal/internal/beneficiary"
+	"github.com/erkylima/hexagonal/internal/beneficiary"
 	"github.com/pkg/errors"
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/mongo"

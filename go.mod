@@ -1,4 +1,4 @@
-module github.com/erkylima/hexagonal/hexagonal
+module github.com/erkylima/hexagonal
 
 go 1.22.0
 

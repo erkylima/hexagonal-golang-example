@@ -3,8 +3,8 @@ package tests
 import (
 	"testing"
 
-	"github.com/erkylima/hexagonal/hexagonal/internal/beneficiary"
-	"github.com/erkylima/hexagonal/hexagonal/internal/beneficiary/serializer/json"
+	"github.com/erkylima/hexagonal/internal/beneficiary"
+	"github.com/erkylima/hexagonal/internal/beneficiary/serializer/json"
 
 	"github.com/stretchr/testify/assert"
 )

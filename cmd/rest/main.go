@@ -7,10 +7,10 @@ import (
 	"os/signal"
 	"syscall"
 
-	"github.com/erkylima/hexagonal/hexagonal/configs"
-	"github.com/erkylima/hexagonal/hexagonal/internal/beneficiary"
-	"github.com/erkylima/hexagonal/hexagonal/pkg/api"
-	"github.com/erkylima/hexagonal/hexagonal/pkg/database/mongodb"
+	"github.com/erkylima/hexagonal/configs"
+	"github.com/erkylima/hexagonal/internal/beneficiary"
+	"github.com/erkylima/hexagonal/pkg/api"
+	"github.com/erkylima/hexagonal/pkg/database/mongodb"
 	"github.com/go-chi/chi"
 	"github.com/go-chi/chi/middleware"
 )
