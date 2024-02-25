@@ -6,7 +6,7 @@ import (
 )
 
 type httpConfig struct {
-	port int `json:"port"`
+	port int
 }
 
 func HTTPConfigure() *httpConfig {
