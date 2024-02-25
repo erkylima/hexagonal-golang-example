@@ -50,7 +50,7 @@ Configuração
 2.  Execute o aplicativo:
     
 
-`go run main.go`
+`go run cmd/rest/main.go`
 
 Uso
 ---
